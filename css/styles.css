@@ -9,5 +9,9 @@ body{
 img{
   float: right;
 }
-  
+
+.sidebar{
+  width: 30%;
+  float: right;
+  }
 
