@@ -16,7 +16,7 @@ img{
 }
 
 .jumbotron{
-  background-color: rgb(119, 153, 140); 
+  background-color: rgba(178, 182, 180, 0.671); 
 }
 
 .best{
@@ -30,7 +30,7 @@ img{
 
 h2 {
   text-align: center;
-  background-color:  rgb(119, 153, 140); 
+  background-color:  rgba(178, 182, 180, 0.671); 
   margin-bottom: 25px;
   }
 
