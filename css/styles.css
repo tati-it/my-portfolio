@@ -26,3 +26,15 @@ img{
 .worst{
   color: #ff5e00;
 }
+
+
+h2 {
+  text-align: center;
+  background-color:  rgb(119, 153, 140); 
+  margin-bottom: 25px;
+  }
+
+.intro{
+  margin: 12px;
+  padding: 4px;
+}
